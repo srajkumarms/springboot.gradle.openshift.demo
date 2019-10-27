@@ -19,3 +19,5 @@ These additional references should also help you:
 
 * [Gradle Build Scans – insights for your project's build](https://scans.gradle.com#gradle)
 
+### Just a test for Jenkins
+This is just checkin to test Jenkins pipeline if it is picking up
